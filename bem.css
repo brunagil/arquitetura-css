@@ -1,9 +1,8 @@
 .exemploComMetodoBem, .exemploSemMetodoBem {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
+    
 }
-
-
 
 
 /* Exemplo Card com Método BEM */
