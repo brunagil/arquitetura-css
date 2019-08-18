@@ -1,0 +1,53 @@
+/* Card SEM BEM >:( */
+
+.card {
+  max-width: 500px;
+  border: 1px solid #ccc;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+
+/* filho direto do card (DOM Tree)*/
+.card > img {
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+
+.card > div {
+  padding: 25px 20px;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+.card h2 {
+  margin: 0px;
+  margin-bottom: 10px;
+  color: brown;
+}
+
+.card > div p {
+  margin: 0;
+}
+
+.card > form {
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+}
+
+/* filho direto do card, do form e do input com type 'text' (DOM Tree)*/
+
+.card > form > input[type="text"] {
+  margin-bottom: 10px;
+  height: 30px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+}
+
+/* filho direto do card, do form e do input com type 'submit' (DOM Tree)*/
+.card > form > input[type="submit"] {
+  border: none;
+  padding: 10px;
+  font-weight: bold;
+  color: #333;
+}

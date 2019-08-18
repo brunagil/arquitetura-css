@@ -1,2 +1,3 @@
-# css-meetup-online
-Exemplo prático do Meetup Online {reprograma} / 20.08.2019
+# Meetup Online reprograma 
+
+Exemplo prático do Meetup Online da reprograma - com e sem Método BEM
