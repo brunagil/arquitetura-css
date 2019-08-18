@@ -1,0 +1,83 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="style.css">
+  <title>Document</title>
+</head>
+<body>
+  
+  <!-- Com método BEM -->
+  <button class="button">
+    Normal button
+  </button>
+
+  <button class="button button_success">
+    Success button
+  </button>
+
+  <button class="button button_danger">
+    Danger button
+  </button>
+
+  <!-- Sem método BEM -->
+  <button class="button">
+    Normal button
+  </button>
+
+  <button class="button_success">
+    Success button
+  </button>
+
+  <button class="button_danger">
+    Danger button
+  </button>
+
+
+
+
+  <!-- Exemplo do Card com dois blocos -->
+  <div class="card">
+    <img src="https://i.pinimg.com/originals/7e/8e/66/7e8e666d850a6cb05deb3346c493c175.jpg" alt="Gatinho BEM gostoso" class="card__imagem">
+    <div class="card-detalhes">
+      <h2 class="card-detalhes__titulo">
+        Sou um título BEM legal
+      </h2>
+      <p class="card-detalhes__descricao">
+        E eu uma descrição BEM sem lorem ipsum
+      </p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="https://clubedosgatos.files.wordpress.com/2015/07/gato-no-vet-_152002499.jpg" alt="Gatinho BEM gostoso" class="card__imagem">
+    <form class="card-form">
+      <input type="text" class="card-form__input" placeholder="Nome do Gatinho">
+      <input type="text" class="card-form__input" placeholder="Nome do Dono">
+      <input type="submit" class="card-form__submit" value="Cadastrar">
+    </form>
+  </div>
+
+
+
+  <!-- Exemplo do Card SEM BEM -->
+  <div class="card">
+    <img src="https://i.pinimg.com/originals/7e/8e/66/7e8e666d850a6cb05deb3346c493c175.jpg" alt="Gatinho BEM gostoso">
+    <div>
+      <h2>Sou um título BEM legal</h2>
+      <p>E eu uma descrição BEM sem lorem ipsum</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="https://clubedosgatos.files.wordpress.com/2015/07/gato-no-vet-_152002499.jpg" alt="Gatinho BEM gostoso">
+    <form>
+      <input type="text" placeholder="Nome do Gatinho">
+      <input type="text" placeholder="Nome do Dono">
+      <input type="submit" value="Cadastrar">
+    </form>
+  </div>
+
+</body>
+</html>
