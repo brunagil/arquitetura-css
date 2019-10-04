@@ -45,4 +45,4 @@ Repositório contendo informações do meetup #8 (Presencial) e #6 (Online) da {
 * [getBem](http://getbem.com/) - Website resumindo o conceito do método BEM 
 
 * BEM, um novo método para seu [CSS](https://tableless.com.br/bem-um-novo-metodo-para-seu-css/)
-
+* BEM [101](https://css-tricks.com/bem-101/) Guide
