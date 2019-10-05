@@ -9,7 +9,7 @@ Repositório contendo informações do meetup #8 (Presencial) e #6 (Online) da {
 ---
 ## 💻 Slides do meetup [online](https://speakerdeck.com/brunagil/arquitetura-de-codigo-e-metodo-bem) e [presencial](https://speakerdeck.com/brunagil/arquitetura-css-e-metodo-bem) da {reprograma}
 
-## 📝 Documentação oficial 
+## 📝 Documentação oficial
 * [BEM](https://en.bem.info/methodology/)
 * [SMACSS](https://smacss.com/) //fora do ar, nem sempre funciona
 * [ITCSS](https://itcss.io/)
@@ -28,8 +28,10 @@ Repositório contendo informações do meetup #8 (Presencial) e #6 (Online) da {
 
 * [CSS Architecture](https://philipwalton.com/articles/css-architecture/)
 
+* [State of the art in CSS: a closer look at CSS architecture systems](https://medium.com/openmindonline/state-of-the-art-in-css-a-closer-look-at-css-architecture-systems-544339a6c625)
 
-## 🍊 Artigos - outros métodos 
+
+## 🍊 Artigos - outros métodos
 * Falando sobre [RSCSS](https://willianjusten.com.br/falando-sobre-rscss/)
 
 * Organizando o CSS com [SUIT CSS](https://medium.com/rd-shipit/organizando-o-css-com-o-suit-css-e6d950601a68)
@@ -42,7 +44,7 @@ Repositório contendo informações do meetup #8 (Presencial) e #6 (Online) da {
 ## 🍓 Artigos - Método BEM
 * O que é Método BEM e como utilizá-lo? [(+ Principais dúvidas)](https://medium.com/reprogramabr/organizando-seu-c%C3%B3digo-o-que-%C3%A9-m%C3%A9todo-bem-e-como-utiliz%C3%A1-lo-89f1664af295)
 * ‘Why BEM?’ in a [nutshell](https://blog.decaf.de/2015/06/24/why-bem-in-a-nutshell/)
-* [getBem](http://getbem.com/) - Website resumindo o conceito do método BEM 
+* [getBem](http://getbem.com/) - Website resumindo o conceito do método BEM
 
 * BEM, um novo método para seu [CSS](https://tableless.com.br/bem-um-novo-metodo-para-seu-css/)
 
