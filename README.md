@@ -28,6 +28,8 @@ Repositório contendo informações do meetup #8 (Presencial) e #6 (Online) da {
 
 * [CSS Architecture](https://philipwalton.com/articles/css-architecture/)
 
+* [How to Organize Your CSS with a Modular Architecture (OOCSS, BEM, SMACSS)](https://snipcart.com/blog/organize-css-modular-architecture)
+
 
 ## 🍊 Artigos - outros métodos 
 * Falando sobre [RSCSS](https://willianjusten.com.br/falando-sobre-rscss/)
