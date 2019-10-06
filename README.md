@@ -37,6 +37,8 @@ Repositório contendo informações do meetup #8 (Presencial) e #6 (Online) da {
 * Organize seu CSS com [SMACSS, BEM e SASS](https://medium.com/@larymagal/organize-seu-css-com-smacss-bem-e-sass-7e8f50a41544)
 * [BEM and SMACSS](https://www.sitepoint.com/bem-smacss-advice-from-developers/)
 
+* Falando sobre [OCSS (em inglês)](https://www.keycdn.com/blog/oocss)
+
 
 
 ## 🍓 Artigos - Método BEM
