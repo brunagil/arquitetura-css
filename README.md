@@ -49,6 +49,7 @@ Repositório contendo informações do meetup #8 (Presencial) e #6 (Online) da {
 
 - BEM, um novo método para seu [CSS](https://tableless.com.br/bem-um-novo-metodo-para-seu-css/)
 - BEM [101](https://css-tricks.com/bem-101/) Guide
+- [Metodologia BEM para criar código legível](https://www.maujor.com/tutorial/metodologia-bem-para-criar-codigo-legivel.php)
 
 ## 🍇 Padrões WEB
 
