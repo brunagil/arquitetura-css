@@ -54,3 +54,4 @@ Repositório contendo informações do meetup #8 (Presencial) e #6 (Online) da {
 ## 🍇 Padrões WEB
 
 - [Site sobre CSS e Padrões Web](https://www.maujor.com)
+- [Introdução aos Padrões Web](https://blog.visie.com.br/o-que-sao-os-padroes-web/)
